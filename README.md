@@ -54,5 +54,5 @@
 <div align="center">  
 	<h2> 📈 Estatísticas </h2>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcolombari&layout=compact&langs_count=7&theme=dracula"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?   username=omarcolombari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcolombari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
